@@ -18,7 +18,6 @@ user-friendly software solutions.
 
 - 💻 Full-Stack Software Developer
 - 🕐 **12+ Years of Professional Experience**
-- 🏢 Experience with **IWCN Pvt. Ltd.** and **VYQDA Technologies Pvt. Ltd.**
 - 🌐 Web Application Development
 - 📱 Mobile Application Development
 - 🖥️ Desktop Application Development
@@ -30,8 +29,20 @@ user-friendly software solutions.
 - 🔐 Authentication, Authorization & Role-Based Access
 - ☁️ Deployment, Server Configuration & Production Support
 
----
 
+## 🏢 Professional Experience
+
+### IWCN Pvt. Ltd.
+**Full-Stack Software Developer**  
+`September 2013 – April 2024` · **10 Years 8 Months**
+
+### VYQDA Technologies Pvt. Ltd.
+**Full-Stack Software Developer**  
+`May 2024 – August 2026` · **2 Years 3 Months**
+
+### 💼 Total Professional Experience
+**12+ Years**
+---
 # 🛠️ Technology Stack
 
 ## 💻 Languages
@@ -81,7 +92,7 @@ user-friendly software solutions.
 
 # 🏢 Professional Experience
 
-## 🏢 VYQDA Technologies Pvt. Ltd.
+## 🏢 VYQDA — Project Portfolio
 
 ### Full-Stack Software Development
 
@@ -162,7 +173,7 @@ A business platform designed to manage financial and operational workflows.
 
 
 
-# 🏢 IWCN Pvt. Ltd.
+# 🏢 IWCN — Project Portfolio
 
 > Enterprise, SaaS, e-commerce, education, financial, booking, ticketing,
 > content-management and automotive business applications.
