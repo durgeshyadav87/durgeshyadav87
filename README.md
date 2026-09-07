@@ -37,8 +37,10 @@ user-friendly software solutions.
 `September 2013 – April 2024` · **10 Years 8 Months**
 
 ### VYQDA Technologies Pvt. Ltd.
-**Full-Stack Software Developer**  
-`May 2024 – August 2026` · **2 Years 3 Months**
+**Full-Stack Software Developer**
+`May 2024 – Present`
+
+
 
 ### 💼 Total Professional Experience
 **12+ Years**
