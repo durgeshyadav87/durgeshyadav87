@@ -29,22 +29,35 @@ user-friendly software solutions.
 - 🔐 Authentication, Authorization & Role-Based Access
 - ☁️ Deployment, Server Configuration & Production Support
 
-
 ## 🏢 Professional Experience
 
-### IWCN Pvt. Ltd.
-**Full-Stack Software Developer**  
-`September 2013 – April 2024` · **10 Years 8 Months**
-
 ### VYQDA Technologies Pvt. Ltd.
+
 **Full-Stack Software Developer**
+
 `May 2024 – Present`
 
+Currently working on web, mobile and business applications, including
+retail, attendance, GPS tracking, sales-force automation, financial/business
+management solutions and REST API integrations.
 
+---
+
+### IWCN Pvt. Ltd.
+
+**Full-Stack Software Developer**
+
+`September 2013 – April 2024` · **10 Years 8 Months**
+
+Worked on enterprise web applications, SaaS platforms, ERP/CRM systems,
+business automation solutions, APIs, database-driven applications and
+third-party integrations.
+
+---
 
 ### 💼 Total Professional Experience
+
 **12+ Years**
----
 
 ## 🎓 Education
 
