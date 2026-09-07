@@ -5,7 +5,7 @@
 > Building scalable business applications, SaaS platforms, automation systems,
 > APIs and modern web & mobile solutions.
 
-I am a **Full-Stack Software Developer with 15+ years of professional
+I am a **Full-Stack Software Developer with 12+ years of professional
 experience** in software development, application architecture, database
 design, API development and business automation.
 
