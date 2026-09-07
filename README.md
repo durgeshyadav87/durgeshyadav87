@@ -169,29 +169,7 @@ operations and business management.
 
 `React` `React Native` `Node.js` `REST API` `MySQL`
 
----
 
-### 📚 Khanuja Book Depot
-
-**Books & Stationery Management System**
-
-A business management solution for handling books, stationery products and
-related retail operations.
-
-**Key Areas**
-
-- Product/catalog management
-- Books & stationery inventory
-- Sales management
-- Customer management
-- Stock management
-- Billing
-- Reports
-- Administrative management
-
-**Technology Areas**
-
-`PHP` `JavaScript` `MySQL` `HTML` `CSS`
 
 ---
 
@@ -224,27 +202,6 @@ education-related data, users and operational workflows.
 
 ---
 
-## 🧩 EduTools New Admin
-
-A dedicated administration interface designed to manage application data,
-users and education-related operational modules.
-
-### Key Areas
-
-- Admin dashboard
-- User and role management
-- Content/data management
-- CRUD-based modules
-- Search and filtering
-- Database operations
-- Authentication & authorization
-- Administrative reporting
-
-### Technology Areas
-
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
----
 
 # 📂 Project Categories
 
