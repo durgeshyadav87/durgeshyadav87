@@ -113,6 +113,28 @@ and sales operations.
 `React` `React Native` `Node.js` `REST API` `MySQL` `JavaScript`
 
 ---
+## 🛒 VyqdaRetail
+
+### Retail Management & POS Application
+
+A retail-focused application designed to simplify day-to-day store operations.
+
+**Key Features**
+
+- Product management
+- Inventory management
+- Sales management
+- Customer management
+- Billing / POS
+- Stock management
+- Reports
+- Business dashboards
+
+**Technology Areas**
+
+`React` `React Native` `Node.js` `REST API` `MySQL`
+
+---
 
 ## 💼 Tradeline
 
@@ -138,52 +160,7 @@ A business platform designed to manage financial and operational workflows.
 
 ---
 
-## 🛒 VyqdaRetail
 
-### Retail Management & POS Application
-
-A retail-focused application designed to simplify day-to-day store operations.
-
-**Key Features**
-
-- Product management
-- Inventory management
-- Sales management
-- Customer management
-- Billing / POS
-- Stock management
-- Reports
-- Business dashboards
-
-**Technology Areas**
-
-`React` `React Native` `Node.js` `REST API` `MySQL`
-
----
-
-## 📚 Khanuja Book Depot
-
-### Books & Stationery Management System
-
-Business management solution for books, stationery products and retail
-operations.
-
-**Key Features**
-
-- Product & catalog management
-- Books & stationery inventory
-- Sales management
-- Customer management
-- Stock management
-- Billing
-- Reports
-- Administrative management
-
-**Technology Areas**
-
-`PHP` `JavaScript` `MySQL` `HTML` `CSS`
-
----
 
 # 🏢 IWCN — Project Portfolio
 
