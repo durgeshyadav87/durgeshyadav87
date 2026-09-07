@@ -1,4 +1,4 @@
-# Hi, I'm Durgesh Kumar Yadav 👋
+# Hi, I'm Durgesh Kumar👋
 
 ### Full-Stack Software Developer
 
