@@ -43,6 +43,24 @@ user-friendly software solutions.
 ### 💼 Total Professional Experience
 **12+ Years**
 ---
+
+## 🎓 Education
+
+### Bachelor of Engineering — Computer Science
+
+**The Institution of Electronics and Telecommunication Engineers (IETE), New Delhi**
+
+`2009`
+
+---
+
+## 📚 Professional Training
+
+- **PHP & MySQL** — IT-BRAIN SHAPERS, New Delhi | `2011`
+- **Drupal 6.x** — TRIKON NETWORKS Pvt. Ltd., New Delhi | `2011`
+
+---
+---
 # 🛠️ Technology Stack
 
 ## 💻 Languages
