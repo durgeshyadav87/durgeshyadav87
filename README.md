@@ -17,7 +17,8 @@ user-friendly software solutions.
 ## 🚀 About Me
 
 - 💻 Full-Stack Software Developer
-- 🏢 Currently working with **VYQDA Technologies Pvt. Ltd.**
+- 🕐 **12+ Years of Professional Experience**
+- 🏢 Experience with **IWCN Pvt. Ltd.** and **VYQDA Technologies Pvt. Ltd.**
 - 🌐 Web Application Development
 - 📱 Mobile Application Development
 - 🖥️ Desktop Application Development
