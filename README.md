@@ -127,12 +127,6 @@ third-party integrations.
 
 ## 🏢 VYQDA Technologies Pvt. Ltd.
 
-### Full-Stack Software Development
-
-Working on custom business applications, web platforms, mobile applications,
-automation systems and enterprise solutions.
-
----
 
 ## 📱 Timenox360
 
@@ -207,11 +201,6 @@ A business platform designed to manage financial and operational workflows.
 
 
 # 🏢 IWCN Pvt. Ltd.
-
-> Enterprise, SaaS, e-commerce, education, financial, booking, ticketing,
-> content-management and automotive business applications.
-
----
 
 ## 🎓 01. EduTools
 
