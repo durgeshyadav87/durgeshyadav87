@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Durgesh Kumar Yadav
 
-### Senior Full-Stack Software Engineer | Web, Mobile & Business Applications
+### Senior Full-Stack Software Engineer | IT & Software Engineering Professional
 
 > Building scalable business applications, SaaS platforms, APIs, automation systems and modern web & mobile solutions.
 
-**15+ years of professional experience** in software development, full-stack engineering, database design, REST API development, third-party integrations, business automation and production systems.
+**15+ years of professional IT & software engineering experience**, spanning IT operations, full-stack application development, SaaS platforms, enterprise business systems, database architecture, API development, third-party integrations and production environments.
 
-I specialize in transforming complex business requirements into **reliable, maintainable and scalable software solutions** — from database and backend architecture to web/mobile applications and production deployment.
+I enjoy turning complex business requirements into **practical, reliable and maintainable software solutions** — from requirement analysis and database design to backend APIs, web/mobile applications, integrations and production deployment.
 
 ---
 
@@ -18,16 +18,44 @@ I specialize in transforming complex business requirements into **reliable, main
 * 📱 React Native Mobile Application Development
 * 🖥️ Desktop Application Development
 * ⚛️ React & Modern JavaScript Applications
-* 🟢 Node.js & REST API Development
+* 🟢 Node.js & Express REST API Development
 * 🐘 PHP & Legacy Application Development
 * 🗄️ MySQL, PostgreSQL & SQLite
 * 🔌 Third-Party & Payment API Integrations
-* 🔐 Authentication, Authorization & Role-Based Access Control
+* 🔐 Authentication, Authorization & RBAC
 * 📊 ERP / CRM / POS / Retail / Finance / SFA Systems
 * 📍 Attendance, GPS & Field-Force Solutions
 * ⚙️ Business Process Automation
-* ☁️ Linux, Nginx, Apache, PM2 & Production Deployment
-* 🔧 Debugging, Performance Optimization & Production Support
+* ☁️ Linux, Nginx, Apache & PM2
+* 🔧 Production Deployment, Debugging & Troubleshooting
+
+---
+
+# 💼 Career Journey
+
+```text
+IT Operations & Infrastructure
+          │
+          ▼
+IT Executive — Hotel Industry
+2011 – 2013
+          │
+          ▼
+Full-Stack Software Development
+          │
+          ▼
+IWCN Pvt. Ltd.
+2013 – 2024
+          │
+          ▼
+Modern Web / Mobile / SaaS Engineering
+          │
+          ▼
+VYQDA Technologies Pvt. Ltd.
+2024 – Present
+```
+
+My career has evolved from **IT operations and infrastructure** into full-stack software engineering, allowing me to understand both the technical and business sides of software systems.
 
 ---
 
@@ -35,57 +63,69 @@ I specialize in transforming complex business requirements into **reliable, main
 
 ## VYQDA Technologies Pvt. Ltd.
 
-**Full-Stack Software Developer**
+### Full-Stack Software Developer
+
 `May 2024 – Present`
 
-Working on modern SaaS and business applications across retail, employee management, sales-force automation, financial workflows and API-driven platforms.
+Working on modern web, mobile and business applications across retail, employee management, sales-force automation, financial workflows and API-driven platforms.
 
-### Key Areas of Responsibility
+### Key Areas
 
-* Develop and maintain **React-based web applications**
-* Build **React Native mobile applications**
-* Develop scalable **Node.js / Express REST APIs**
-* Design and optimize relational database structures
-* Implement complex business workflows and validations
-* Develop attendance, GPS tracking and field-force functionality
-* Build retail and POS workflows
-* Implement authentication, authorization and role-based access
-* Integrate third-party services and payment APIs
-* Design API communication between web, mobile and backend systems
-* Work with offline-first and local data synchronization concepts
-* Troubleshoot production issues and optimize application performance
-* Configure and maintain production deployments using Linux, Nginx and PM2
+* Develop and maintain React-based web applications
+* Develop React Native mobile applications
+* Build Node.js / Express REST APIs
+* Design and optimize relational databases
+* Implement complex business workflows
+* Develop attendance and employee-management systems
+* Implement GPS and location-based functionality
+* Build Sales Force Automation workflows
+* Develop retail and POS functionality
+* Implement authentication and role-based access
+* Integrate third-party APIs and payment services
+* Develop API communication between web, mobile and backend systems
+* Work with offline-first application concepts
+* Implement local data storage and synchronization workflows
+* Troubleshoot production issues
+* Optimize application performance
+* Work with Linux, Nginx and PM2 production environments
 
 ### Major Product Areas
 
-**Timenox360** — Employee Attendance, GPS Tracking & Sales Force Automation
+**Timenox360**
+Employee Attendance • GPS Tracking • Sales Force Automation
 
-**VyqdaRetail** — Retail Management & POS
+**VyqdaRetail**
+Retail Management • POS • Inventory
 
-**Tradeline** — Business & Financial Management Platform
+**Tradeline**
+Business & Financial Management Platform
 
 ---
 
-## IWCN Pvt. Ltd.
+# 🏢 IWCN Pvt. Ltd.
 
-**Full-Stack Software Developer**
+### Full-Stack Software Developer
+
 `September 2013 – April 2024`
 
 Worked on multiple commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event technology and business automation solutions.
 
 ### Key Responsibilities
 
-* Full-stack application development
+* Full-stack web application development
 * Backend and business logic implementation
-* Database design and optimization
-* REST API and third-party API integration
-* Authentication and role-based access control
+* Database architecture and optimization
+* REST API development
+* Third-party API integration
 * Payment gateway integration
+* Authentication and authorization
+* Role-based access control
+* Business workflow development
 * Reporting and document generation
 * Inventory and financial workflows
 * Production debugging and maintenance
 * Performance optimization
-* Legacy application enhancement and modernization
+* Legacy application enhancement and maintenance
 
 ### Major Projects
 
@@ -100,17 +140,42 @@ Worked on multiple commercial web applications, SaaS platforms, ERP/CRM systems,
 
 ---
 
-# 🧩 Selected Project Experience
+# 🖥️ IT Executive — Hotel Industry
+
+### IT Executive
+
+`2011 – 2013`
+
+Started my professional IT career in the hotel industry, supporting day-to-day IT operations and technology infrastructure.
+
+### Key Areas
+
+* IT infrastructure support
+* Computer systems and network support
+* Hardware and software troubleshooting
+* User / staff technical support
+* System maintenance
+* Network and connectivity troubleshooting
+* IT equipment management
+* Software installation and configuration
+* Data and system support
+* Operational technology support
+
+This experience provided a strong foundation in **IT operations, troubleshooting, end-user support and production environments**, which later helped transition into software development and business application engineering.
+
+---
+
+# 🧩 Selected Product & Project Experience
 
 ## 📱 Timenox360
 
 ### Employee Attendance • GPS Tracking • Sales Force Automation
 
-Business platform for employee attendance, field-force management, GPS tracking and sales operations.
+Business platform focused on employee attendance, field-force management, GPS tracking and sales operations.
 
-**Key Areas**
+### Key Areas
 
-* Employee attendance
+* Employee attendance management
 * Check-in / check-out workflows
 * GPS and location tracking
 * Field-force management
@@ -119,9 +184,10 @@ Business platform for employee attendance, field-force management, GPS tracking 
 * Reporting and dashboards
 * Mobile / web API communication
 * Role-based access control
-* Offline data handling and synchronization
+* Offline data handling
+* Data synchronization
 
-**Technology**
+### Technology
 
 `React` `React Native` `Node.js` `REST API` `MySQL` `SQLite` `JavaScript`
 
@@ -133,10 +199,11 @@ Business platform for employee attendance, field-force management, GPS tracking 
 
 Retail management and Point of Sale platform designed to manage day-to-day store operations.
 
-**Key Areas**
+### Key Areas
 
 * Product and category management
-* Inventory and stock management
+* Inventory management
+* Stock management
 * POS and billing
 * Customer management
 * Sales management
@@ -145,7 +212,7 @@ Retail management and Point of Sale platform designed to manage day-to-day store
 * Role-based access
 * Offline desktop POS workflows
 
-**Technology**
+### Technology
 
 `React` `Node.js` `Electron` `SQLite` `REST API` `MySQL` `JavaScript`
 
@@ -157,7 +224,7 @@ Retail management and Point of Sale platform designed to manage day-to-day store
 
 Business platform supporting financial, operational and administrative workflows.
 
-**Key Areas**
+### Key Areas
 
 * User and account management
 * Financial workflows
@@ -168,23 +235,24 @@ Business platform supporting financial, operational and administrative workflows
 * Transaction processing
 * Administrative dashboards
 * Third-party API integrations
-* Webhooks and API-driven workflows
+* Webhooks
+* API-driven workflows
 
-**Technology**
+### Technology
 
 `React` `Node.js` `REST API` `MySQL` `JavaScript`
 
 ---
 
-# 🏢 Previous Enterprise Project Experience
+# 🏢 Enterprise Project Experience
 
 ## 🎓 EduTools
 
-### Education Supply & Inventory Management
+### Education Supply & Inventory Management Platform
 
-Platform for managing schools, books, stationery, product catalogs, packages, purchasing, inventory and sales.
+Education-focused business platform for managing schools, books, stationery, products, packages, inventory, purchasing and sales.
 
-**Major Modules**
+### Major Modules
 
 * School & class package management
 * Product catalog
@@ -193,37 +261,41 @@ Platform for managing schools, books, stationery, product catalogs, packages, pu
 * Purchasing
 * Sales & orders
 * Customers & suppliers
-* GST / tax
+* GST / tax management
 * Invoicing & payments
 * Admin / store / merchant portals
 
-**Technology**
+### Technology
 
 `PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Bootstrap` `UIkit` `DataTables` `Chart.js` `PHPSpreadsheet` `PHPMailer` `mPDF`
 
 ---
 
-## 📝 Content Analysis & Plagiarism Detection
+## 📝 Content Analysis & Plagiarism Detection Platform
 
 ### Content Analysis • Transcript • Plagiarism
 
-Web platform for content analysis, transcript processing, plagiarism detection and grammar analysis.
+Web-based platform for content analysis, transcript processing, plagiarism detection and grammar analysis.
 
-**Major Areas**
+### Key Areas
 
 * YouTube transcript processing
 * Plagiarism detection
 * Grammar analysis
 * Error highlighting
 * Correction suggestions
-* Client & staff management
+* Client and staff management
 * Ticket management
 * File management
 * Report generation
 
-**Technology**
+### Integrations
 
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Copyscape API` `GrammarBot API` `JSON` `XML`
+`Copyscape API` `GrammarBot API`
+
+### Technology
+
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `JSON` `XML` `Composer`
 
 ---
 
@@ -231,42 +303,46 @@ Web platform for content analysis, transcript processing, plagiarism detection a
 
 ### Content Ordering • Writer • Editor Workflow
 
-Content production platform connecting clients, writers and editors through structured workflows.
+Content management platform connecting clients, writers and editors through structured content production workflows.
 
-**Key Areas**
+### Key Areas
 
 * Content ordering
 * Writer assignment
 * Editor workflow
 * Article review
-* Revisions
+* Approval workflows
 * Plagiarism checking
-* Comments and feedback
+* Comments and revisions
 * Client management
 * Reporting
 * Email notifications
 
-**Technology**
+### Integrations
 
-`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Copyscape API` `PHPMailer` `mPDF`
+`Copyscape API`
+
+### Technology
+
+`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `PHPMailer` `mPDF`
 
 ---
 
 ## 💰 Accournal
 
-### Accounting & Business Management
+### Accounting & Business Management System
 
 Business accounting platform covering financial transactions, invoicing, purchasing, inventory, banking and reporting.
 
-**Key Areas**
+### Key Areas
 
 * Chart of Accounts
 * General Ledger
 * Journals
-* Sales & purchasing
+* Sales and purchasing
 * Invoices and quotations
 * Inventory
-* GST / tax
+* GST / tax management
 * Banking
 * Profit & Loss
 * Balance Sheet
@@ -274,19 +350,19 @@ Business accounting platform covering financial transactions, invoicing, purchas
 * Cash Flow
 * Financial reporting
 
-**Technology**
+### Technology
 
-`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `Select2` `Chart.js` `mPDF`
+`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `Select2` `Chart.js` `PHPMailer` `mPDF`
 
 ---
 
 ## 🏢 RoboERP
 
-### Enterprise Resource Planning
+### Enterprise Resource Planning System
 
 ERP platform covering finance, HR, payroll, sales, purchasing, inventory, projects and employee management.
 
-**Key Areas**
+### Key Areas
 
 * Finance & accounting
 * General Ledger
@@ -303,7 +379,7 @@ ERP platform covering finance, HR, payroll, sales, purchasing, inventory, projec
 * Import / export
 * Role-based access
 
-**Technology**
+### Technology
 
 `PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `PHPExcel` `mPDF` `PHPMailer`
 
@@ -315,14 +391,14 @@ ERP platform covering finance, HR, payroll, sales, purchasing, inventory, projec
 
 Appointment and business booking platform for managing services, staff, customers, resources, payments and subscriptions.
 
-**Key Areas**
+### Key Areas
 
 * Online appointment scheduling
 * Calendar management
 * Service management
 * Staff management
 * Customer management
-* Room / resource management
+* Resource / room management
 * Payment processing
 * Subscription billing
 * Invoicing
@@ -331,11 +407,11 @@ Appointment and business booking platform for managing services, staff, customer
 * Email notifications
 * Role-based administration
 
-**Integrations**
+### Integrations
 
 `Stripe` `Razorpay` `Google OAuth` `Facebook SDK` `REST APIs`
 
-**Technology**
+### Technology
 
 `PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `mPDF`
 
@@ -347,7 +423,7 @@ Appointment and business booking platform for managing services, staff, customer
 
 Event ticketing platform for managing events, venues, seat maps, reservations, payments and ticket validation.
 
-**Key Areas**
+### Key Areas
 
 * Event management
 * Venue management
@@ -363,26 +439,26 @@ Event ticketing platform for managing events, venues, seat maps, reservations, p
 * Promotions
 * Event reporting
 
-**Integrations**
+### Integrations
 
-`PayPal` `Conekta` `Banorte` `QR Code` `REST APIs`
+`PayPal` `Conekta` `Banorte`
 
-**Technology**
+### Technology
 
 `PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `UIkit` `PHPExcel` `mPDF` `TCPDF` `JSPrintManager`
 
 ---
 
-## 🚗 Automotive Service Contract & Claims Platform
+## 🚗 Automotive Service Contract & Claims Management Platform
 
 ### Vehicle Protection • Claims • Payments
 
 Business platform for managing customers, vehicles, service contracts, coverage plans, repair shops, claims and payments.
 
-**Key Areas**
+### Key Areas
 
 * Customer and vehicle management
-* Service contracts
+* Service contract management
 * Coverage plans
 * Repair shop management
 * Claims submission and tracking
@@ -393,11 +469,11 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 * Scheduled processing
 * Reporting
 
-**Integrations**
+### Integrations
 
 `Stripe` `DocuSign` `USPS` `Firebase JWT` `REST APIs`
 
-**Technology**
+### Technology
 
 `PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `UIkit` `Guzzle` `Twig` `PHPMailer` `mPDF`
 
@@ -405,35 +481,35 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 
 # 🛠️ Technology Stack
 
-## Languages
+## 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-## Frontend & Mobile
+## ⚛️ Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jQuery\&logoColor=white)
 
-## Backend & APIs
+## 🟢 Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-## Databases
+## 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-## DevOps & Production
+## ⚙️ Development & DevOps
 
 * Git & GitHub
 * GitHub Actions
@@ -450,9 +526,31 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 
 ---
 
+# 🔌 API & Integration Experience
+
+Hands-on experience integrating business applications with external services and APIs.
+
+### Payment & Financial
+
+`Stripe` `Razorpay` `PayPal` `Conekta`
+
+### Business & Platform APIs
+
+`DocuSign` `USPS` `Copyscape` `GrammarBot`
+
+### Authentication
+
+`Google OAuth` `Facebook SDK` `Firebase JWT`
+
+### API Technologies
+
+`REST` `JSON` `XML` `Webhooks`
+
+---
+
 # 🧠 Core Engineering Expertise
 
-### Software Engineering
+## Software Engineering
 
 * Full-Stack Application Development
 * Application Architecture
@@ -467,7 +565,7 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 * Payment Gateway Integration
 * Production Debugging
 
-### Business Systems
+## Business Systems
 
 * ERP
 * CRM
@@ -482,7 +580,7 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 * Event & Ticketing Platforms
 * E-commerce
 
-### Engineering Practices
+## Engineering Practices
 
 * Modular application design
 * Reusable components
@@ -493,25 +591,6 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 * Production deployment
 * Legacy application maintenance
 * Troubleshooting and root-cause analysis
-
----
-
-# 🔌 API & Third-Party Integration Experience
-
-Experienced in integrating software applications with external services and APIs, including:
-
-* Payment gateways
-* Authentication providers
-* Communication services
-* Plagiarism detection services
-* Document and e-signature platforms
-* Address / postal services
-* Business and financial APIs
-* REST / JSON / XML based services
-
-### Examples
-
-`Stripe` `Razorpay` `PayPal` `Conekta` `DocuSign` `Copyscape` `GrammarBot` `USPS` `Google OAuth` `Facebook SDK`
 
 ---
 
@@ -541,11 +620,18 @@ Production Deployment
 Monitoring & Support
 ```
 
-I focus on building solutions that are not only functional, but also **maintainable, scalable and aligned with real business requirements**.
+My approach focuses on building software that is:
+
+* Reliable
+* Maintainable
+* Scalable
+* Secure
+* Business-oriented
+* Production-ready
 
 ---
 
-# 📌 Domain Experience
+# 📊 Domain Experience
 
 | Domain                          | Experience                              |
 | ------------------------------- | --------------------------------------- |
@@ -553,22 +639,22 @@ I focus on building solutions that are not only functional, but also **maintaina
 | 🏢 ERP                          | Finance, HR, Payroll, Inventory         |
 | 💰 Accounting & Finance         | Accounting, Billing, Payments           |
 | 🛒 Retail & POS                 | Products, Inventory, Sales, Billing     |
-| 📱 Mobile                       | React Native Business Applications      |
+| 📱 Mobile Applications          | React Native Business Applications      |
 | 📍 Field Force                  | Attendance, GPS, SFA                    |
 | 🎓 Education                    | Products, Packages, Inventory           |
-| 📝 Content                      | Content, Plagiarism, Editorial Workflow |
+| 📝 Content Technology           | Content, Plagiarism, Editorial Workflow |
 | 📅 Booking                      | Appointments, Services, Subscriptions   |
 | 🎟️ Events                      | Ticketing, Seat Maps, QR Validation     |
 | 🚗 Automotive                   | Contracts, Claims, Payments             |
-| 🔌 Integrations                 | Payment, OAuth, Business APIs           |
+| 🔌 API Integrations             | Payment, OAuth, Business APIs           |
 
 ---
 
 # 📈 Current Focus
 
-Currently focused on building modern business applications using:
+Currently focused on modern business application development using:
 
-`React` `React Native` `Node.js` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
+`React` `React Native` `Node.js` `Express` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
 
 with emphasis on:
 
@@ -580,22 +666,109 @@ with emphasis on:
 * GPS / location-based applications
 * Retail & POS
 * SaaS platforms
-* Production-ready deployments
+* Production-ready systems
+
+---
+
+# 🎯 What I Bring to a Development Team
+
+### Business Understanding
+
+Ability to understand real-world business requirements and convert them into technical solutions.
+
+### Full-Stack Ownership
+
+Comfortable working across database, backend, APIs, frontend, mobile applications and deployment.
+
+### Legacy + Modern Technology
+
+Experience working with both established PHP/jQuery systems and modern React/Node.js applications.
+
+### Integration Experience
+
+Hands-on experience connecting applications with payment gateways, authentication providers, external APIs and business services.
+
+### Production Experience
+
+Experience troubleshooting and maintaining applications in real-world production environments.
+
+### Problem Solving
+
+Strong focus on understanding root causes, business rules and long-term maintainability rather than only implementing short-term fixes.
+
+---
+
+# 📚 Education
+
+### Bachelor of Engineering — Computer Science
+
+**The Institution of Electronics and Telecommunication Engineers (IETE), New Delhi**
+
+`2009`
+
+---
+
+# 📖 Professional Training
+
+### PHP & MySQL
+
+**IT-BRAIN SHAPERS, New Delhi**
+
+`2011`
+
+### Drupal 6.x
+
+**TRIKON NETWORKS Pvt. Ltd., New Delhi**
+
+`2011`
 
 ---
 
 # 📫 Connect With Me
 
-* 💼 LinkedIn: **[Add your LinkedIn URL]**
+* 💼 LinkedIn: **[Add your LinkedIn profile URL]**
 * 📧 Email: **[Add your professional email]**
-* 🐙 GitHub: **[github.com/durgeshyadav87](https://github.com/durgeshyadav87)**
+* 🐙 GitHub: **https://github.com/durgeshyadav87**
 
 ---
 
-## ⭐ About My Work
+# ⭐ What I Build
 
-I enjoy working on software where **technology meets real business problems**.
+```text
+Business Problems
+       ↓
+Requirement Analysis
+       ↓
+System & Database Design
+       ↓
+Backend / API
+       ↓
+Web / Mobile Application
+       ↓
+Integrations
+       ↓
+Testing
+       ↓
+Deployment
+       ↓
+Production Support
+```
 
-My experience spans the complete software development lifecycle — from understanding business requirements and designing databases to developing APIs, web/mobile applications, integrating external services and supporting production systems.
+> **I build practical software solutions that solve real business problems.**
 
-> **Build practical software. Solve real business problems. Keep it maintainable.**
+---
+
+## 🚀 Areas of Interest
+
+* Senior Full-Stack Engineering
+* Software Architecture
+* SaaS & Business Applications
+* React / React Native
+* Node.js & REST APIs
+* Enterprise Application Development
+* ERP / CRM / POS
+* Retail Technology
+* Mobile & Offline-First Applications
+* Business Process Automation
+* API & System Integration
+* Production Engineering
