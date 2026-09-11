@@ -13,7 +13,7 @@ I specialize in transforming complex business requirements into **reliable, main
 ## 🚀 Professional Summary
 
 * 💻 Senior Full-Stack Software Engineer
-* 🕐 **15+ Years of Professional Software Development Experience**
+* 🕐 **15+ Years of Professional IT & Software Engineering Experience**
 * 🌐 Web Application & SaaS Development
 * 📱 React Native Mobile Application Development
 * 🖥️ Desktop Application Development
