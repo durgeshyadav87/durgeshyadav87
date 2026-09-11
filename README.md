@@ -102,43 +102,61 @@ Business & Financial Management Platform
 
 ---
 
-# 🏢 IWCN Pvt. Ltd.
+## IWCN Pvt. Ltd.
 
-### Full-Stack Software Developer
+### Web Application Developer
 
-`September 2013 – April 2024`
+`September 2013 – April 2024` · **10 Years 8 Months**
 
-Worked on multiple commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event technology and business automation solutions.
+Worked as a **Web Application Developer** on commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event-management platforms and business automation solutions.
 
 ### Key Responsibilities
 
-* Full-stack web application development
-* Backend and business logic implementation
-* Database architecture and optimization
-* REST API development
-* Third-party API integration
-* Payment gateway integration
-* Authentication and authorization
-* Role-based access control
-* Business workflow development
-* Reporting and document generation
-* Inventory and financial workflows
-* Production debugging and maintenance
-* Performance optimization
-* Legacy application enhancement and maintenance
+* Developed and maintained database-driven web applications
+* Designed and implemented application modules based on business requirements
+* Developed server-side business logic and web application workflows
+* Designed and optimized MySQL database structures and queries
+* Developed dynamic web interfaces using JavaScript, jQuery, AJAX and Bootstrap
+* Integrated third-party APIs and external services
+* Implemented payment gateway integrations
+* Developed authentication, authorization and role-based access
+* Built reporting, invoicing and document-generation functionality
+* Worked on ERP, CRM, accounting, inventory and e-commerce modules
+* Implemented data import/export and reporting workflows
+* Debugged and resolved application and production issues
+* Maintained and enhanced existing business applications
+* Worked with legacy systems and implemented new functionality
+* Supported application deployment and production environments
+
+### Major Project Domains
+
+* 🎓 Education & School Supply Management
+* 💰 Accounting & Financial Management
+* 🏢 ERP & Business Management
+* 📅 Appointment & Booking Systems
+* 🎟️ Event & Ticketing Platforms
+* 🚗 Automotive Service Contract & Claims Management
+* 📝 Content Management & Plagiarism Detection
+* 🛒 E-commerce & Inventory Management
 
 ### Major Projects
 
-* EduTools — Education Supply & Inventory Platform
-* Content Analysis & Plagiarism Detection Platform
-* E-Content Management & Ordering Platform
-* Accournal — Accounting & Business Management System
-* RoboERP — Enterprise Resource Planning System
-* SetAgendas — Appointment & Business Booking Platform
-* Boletos en Línea — Online Ticketing & Event Management
-* Automotive Service Contract & Claims Management Platform
+**EduTools** — Education Supply & Inventory Management Platform
 
----
+**Accournal** — Accounting & Business Management System
+
+**RoboERP** — Enterprise Resource Planning System
+
+**SetAgendas** — Appointment & Business Booking Platform
+
+**Boletos en Línea** — Online Ticketing & Event Management Platform
+
+**Automotive Service Contract & Claims Platform**
+
+**Content Analysis & Plagiarism Detection Platform**
+
+**E-Content Management & Ordering Platform**
+
 
 # 🖥️ IT Executive — Hotel Industry
 
