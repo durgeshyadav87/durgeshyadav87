@@ -1,634 +1,526 @@
 # 👋 Hi, I'm Durgesh Kumar Yadav
 
-### Full-Stack Software Developer | Web & Mobile Application Engineer
+### Senior Full-Stack Software Engineer | Web, Mobile & Business Applications
 
-> Building scalable business applications, SaaS platforms, automation systems,
-> APIs and modern web & mobile solutions.
+> Building scalable business applications, SaaS platforms, APIs, automation systems and modern web & mobile solutions.
 
-I am a **Full-Stack Software Developer with 12+ years of professional
-experience** in software development, application architecture, database
-design, API development and business automation.
+**15+ years of professional experience** in software development, full-stack engineering, database design, REST API development, third-party integrations, business automation and production systems.
 
-I enjoy turning complex business requirements into reliable, scalable and
-user-friendly software solutions.
+I specialize in transforming complex business requirements into **reliable, maintainable and scalable software solutions** — from database and backend architecture to web/mobile applications and production deployment.
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-- 💻 Full-Stack Software Developer
-- 🕐 **12+ Years of Professional Experience**
-- 🌐 Web Application Development
-- 📱 Mobile Application Development
-- 🖥️ Desktop Application Development
-- 🔌 REST API & Third-Party API Integration
-- 🗄️ Database Architecture & Optimization
-- ⚙️ Business Process Automation
-- 📊 ERP / CRM / Retail / Attendance / SFA Solutions
-- 🚀 SaaS & Custom Business Applications
-- 🔐 Authentication, Authorization & Role-Based Access
-- ☁️ Deployment, Server Configuration & Production Support
+* 💻 Senior Full-Stack Software Engineer
+* 🕐 **15+ Years of Professional Software Development Experience**
+* 🌐 Web Application & SaaS Development
+* 📱 React Native Mobile Application Development
+* 🖥️ Desktop Application Development
+* ⚛️ React & Modern JavaScript Applications
+* 🟢 Node.js & REST API Development
+* 🐘 PHP & Legacy Application Development
+* 🗄️ MySQL, PostgreSQL & SQLite
+* 🔌 Third-Party & Payment API Integrations
+* 🔐 Authentication, Authorization & Role-Based Access Control
+* 📊 ERP / CRM / POS / Retail / Finance / SFA Systems
+* 📍 Attendance, GPS & Field-Force Solutions
+* ⚙️ Business Process Automation
+* ☁️ Linux, Nginx, Apache, PM2 & Production Deployment
+* 🔧 Debugging, Performance Optimization & Production Support
 
-## 🏢 Professional Experience
+---
 
-### VYQDA Technologies Pvt. Ltd.
+# 🏢 Professional Experience
+
+## VYQDA Technologies Pvt. Ltd.
 
 **Full-Stack Software Developer**
-
 `May 2024 – Present`
 
-Currently working on web, mobile and business applications, including
-retail, attendance, GPS tracking, sales-force automation, financial/business
-management solutions and REST API integrations.
+Working on modern SaaS and business applications across retail, employee management, sales-force automation, financial workflows and API-driven platforms.
+
+### Key Areas of Responsibility
+
+* Develop and maintain **React-based web applications**
+* Build **React Native mobile applications**
+* Develop scalable **Node.js / Express REST APIs**
+* Design and optimize relational database structures
+* Implement complex business workflows and validations
+* Develop attendance, GPS tracking and field-force functionality
+* Build retail and POS workflows
+* Implement authentication, authorization and role-based access
+* Integrate third-party services and payment APIs
+* Design API communication between web, mobile and backend systems
+* Work with offline-first and local data synchronization concepts
+* Troubleshoot production issues and optimize application performance
+* Configure and maintain production deployments using Linux, Nginx and PM2
+
+### Major Product Areas
+
+**Timenox360** — Employee Attendance, GPS Tracking & Sales Force Automation
+
+**VyqdaRetail** — Retail Management & POS
+
+**Tradeline** — Business & Financial Management Platform
 
 ---
 
-### IWCN Pvt. Ltd.
+## IWCN Pvt. Ltd.
 
 **Full-Stack Software Developer**
+`September 2013 – April 2024`
 
-`September 2013 – April 2024` · **10 Years 8 Months**
+Worked on multiple commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event technology and business automation solutions.
 
-Worked on enterprise web applications, SaaS platforms, ERP/CRM systems,
-business automation solutions, APIs, database-driven applications and
-third-party integrations.
+### Key Responsibilities
 
----
+* Full-stack application development
+* Backend and business logic implementation
+* Database design and optimization
+* REST API and third-party API integration
+* Authentication and role-based access control
+* Payment gateway integration
+* Reporting and document generation
+* Inventory and financial workflows
+* Production debugging and maintenance
+* Performance optimization
+* Legacy application enhancement and modernization
 
-### 💼 Total Professional Experience
+### Major Projects
 
-**12+ Years**
-
-## 🎓 Education
-
-### Bachelor of Engineering — Computer Science
-
-**The Institution of Electronics and Telecommunication Engineers (IETE), New Delhi**
-
-`2009`
-
----
-
-## 📚 Professional Training
-
-- **PHP & MySQL** — IT-BRAIN SHAPERS, New Delhi | `2011`
-- **Drupal 6.x** — TRIKON NETWORKS Pvt. Ltd., New Delhi | `2011`
-
----
----
-# 🛠️ Technology Stack
-
-## 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge)
-
-## ⚛️ Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
-
-## 🟢 Backend & APIs
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## ⚙️ Development & Deployment
-
-- Git & GitHub
-- GitHub Actions
-- Linux
-- Nginx
-- Apache
-- PM2
-- REST APIs
-- JSON / XML
-- API Authentication
-- Production Deployment
-- Server Management
+* EduTools — Education Supply & Inventory Platform
+* Content Analysis & Plagiarism Detection Platform
+* E-Content Management & Ordering Platform
+* Accournal — Accounting & Business Management System
+* RoboERP — Enterprise Resource Planning System
+* SetAgendas — Appointment & Business Booking Platform
+* Boletos en Línea — Online Ticketing & Event Management
+* Automotive Service Contract & Claims Management Platform
 
 ---
 
-# 🏢 Portfolio
-
-## 🏢 VYQDA Technologies Pvt. Ltd.
-
+# 🧩 Selected Project Experience
 
 ## 📱 Timenox360
 
 ### Employee Attendance • GPS Tracking • Sales Force Automation
 
-A business application focused on employee attendance, field-force tracking
-and sales operations.
+Business platform for employee attendance, field-force management, GPS tracking and sales operations.
 
-**Key Features**
+**Key Areas**
 
-- Employee attendance management
-- GPS / location tracking
-- Field-force management
-- Sales Force Automation
-- Employee management
-- Reporting & dashboards
-- Mobile / web API communication
-- Role-based access
+* Employee attendance
+* Check-in / check-out workflows
+* GPS and location tracking
+* Field-force management
+* Sales Force Automation
+* Employee management
+* Reporting and dashboards
+* Mobile / web API communication
+* Role-based access control
+* Offline data handling and synchronization
 
-**Technology Areas**
+**Technology**
 
-`React` `React Native` `Node.js` `REST API` `MySQL` `JavaScript`
+`React` `React Native` `Node.js` `REST API` `MySQL` `SQLite` `JavaScript`
 
 ---
+
 ## 🛒 VyqdaRetail
 
-### Retail Management & POS Application
+### Retail Management • POS • Inventory
 
-A retail-focused application designed to simplify day-to-day store operations.
+Retail management and Point of Sale platform designed to manage day-to-day store operations.
 
-**Key Features**
+**Key Areas**
 
-- Product management
-- Inventory management
-- Sales management
-- Customer management
-- Billing / POS
-- Stock management
-- Reports
-- Business dashboards
+* Product and category management
+* Inventory and stock management
+* POS and billing
+* Customer management
+* Sales management
+* Stock movements
+* Reports and dashboards
+* Role-based access
+* Offline desktop POS workflows
 
-**Technology Areas**
+**Technology**
 
-`React` `React Native` `Node.js` `REST API` `MySQL`
+`React` `Node.js` `Electron` `SQLite` `REST API` `MySQL` `JavaScript`
 
 ---
 
 ## 💼 Tradeline
 
-### Business / Financial Management Platform
+### Financial & Business Management Platform
 
-A business platform designed to manage financial and operational workflows.
+Business platform supporting financial, operational and administrative workflows.
 
-**Key Features**
+**Key Areas**
 
-- User management
-- Financial workflows
-- Payment management
-- Commission management
-- Dispute management
-- Transaction processing
-- Reporting
-- Administrative dashboards
-- API integration
+* User and account management
+* Financial workflows
+* Payment processing
+* Commission management
+* Wallet functionality
+* Dispute management
+* Transaction processing
+* Administrative dashboards
+* Third-party API integrations
+* Webhooks and API-driven workflows
 
-**Technology Areas**
+**Technology**
 
 `React` `Node.js` `REST API` `MySQL` `JavaScript`
 
 ---
 
+# 🏢 Previous Enterprise Project Experience
 
+## 🎓 EduTools
 
-# 🏢 IWCN Pvt. Ltd.
+### Education Supply & Inventory Management
 
-## 🎓 01. EduTools
-
-### Education Supply & Inventory Management Platform
-
-Education-focused e-commerce and business management platform for managing
-schools, books, stationery, products, packages, inventory, purchasing and
-sales.
+Platform for managing schools, books, stationery, product catalogs, packages, purchasing, inventory and sales.
 
 **Major Modules**
 
-- School & class package management
-- Product / catalog management
-- Inventory & warehouse
-- Sales & purchasing
-- Customer & supplier management
-- GST / tax management
-- Invoicing & payments
-- Admin / store / merchant portals
+* School & class package management
+* Product catalog
+* Product variations
+* Inventory & warehouse
+* Purchasing
+* Sales & orders
+* Customers & suppliers
+* GST / tax
+* Invoicing & payments
+* Admin / store / merchant portals
 
-**Key Features**
+**Technology**
 
-- Book and stationery package management
-- Product variations, pricing and discounts
-- Cart, wishlist, checkout and orders
-- Purchase orders, invoices and returns
-- Stock monitoring
-- QR / barcode product identification
-- PDF documents
-- Spreadsheet import / export
-- Role-based access
-
-**Technologies**
-
-`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX`
-`Bootstrap` `UIkit` `DataTables` `Chart.js`
-`PHPSpreadsheet` `PHPMailer` `mPDF`
+`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Bootstrap` `UIkit` `DataTables` `Chart.js` `PHPSpreadsheet` `PHPMailer` `mPDF`
 
 ---
 
-## 📝 02. Content Analysis & Plagiarism Detection Platform
+## 📝 Content Analysis & Plagiarism Detection
 
-### Content Analysis • Transcript • Plagiarism Detection
+### Content Analysis • Transcript • Plagiarism
 
-Web-based platform for content analysis, YouTube transcript extraction,
-plagiarism detection and grammar analysis.
+Web platform for content analysis, transcript processing, plagiarism detection and grammar analysis.
 
-**Major Modules**
+**Major Areas**
 
-- Content / transcript management
-- YouTube transcript processing
-- Plagiarism detection
-- Grammar analysis
-- Client / staff management
-- Reports
-- File management
-- Admin dashboard
+* YouTube transcript processing
+* Plagiarism detection
+* Grammar analysis
+* Error highlighting
+* Correction suggestions
+* Client & staff management
+* Ticket management
+* File management
+* Report generation
 
-**Key Features**
+**Technology**
 
-- YouTube transcript extraction
-- Automated plagiarism checking
-- Grammar and writing-error detection
-- Error highlighting
-- Correction suggestions
-- Client, staff and ticket management
-- File uploads
-- Report generation
-- AJAX-based processing
-- Authentication & role-based workflows
-
-**Technologies**
-
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX`
-`UIkit` `Copyscape API` `GrammarBot API`
-`JSON` `XML` `Composer`
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Copyscape API` `GrammarBot API` `JSON` `XML`
 
 ---
 
-## 📚 03. E-Content Management & Ordering Platform
+## 📚 E-Content Management & Ordering Platform
 
 ### Content Ordering • Writer • Editor Workflow
 
-Content management platform connecting clients with writers and editors
-through structured article production workflows.
+Content production platform connecting clients, writers and editors through structured workflows.
 
-**Major Modules**
+**Key Areas**
 
-- Client management
-- Content / article orders
-- Writer management
-- Editor workflow
-- Plagiarism checking
-- Comments & revisions
-- Support tickets
-- Reports
+* Content ordering
+* Writer assignment
+* Editor workflow
+* Article review
+* Revisions
+* Plagiarism checking
+* Comments and feedback
+* Client management
+* Reporting
+* Email notifications
 
-**Key Features**
+**Technology**
 
-- Article creation and assignment
-- Writer / editor workflow
-- Article review and approval
-- Copyscape plagiarism checking
-- Comments and revision requests
-- Ratings and feedback
-- PDF reports
-- CSV export
-- Email notifications
-
-**Technologies**
-
-`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX`
-`Bootstrap` `Copyscape API` `PHPMailer` `mPDF`
-`JSON` `XML`
+`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Copyscape API` `PHPMailer` `mPDF`
 
 ---
 
-## 💰 04. Accournal
+## 💰 Accournal
 
-### Accounting & Business Management System
+### Accounting & Business Management
 
-Web-based accounting and business management system for financial
-transactions, invoicing, customers, suppliers, inventory, banking and
-reporting.
+Business accounting platform covering financial transactions, invoicing, purchasing, inventory, banking and reporting.
 
-**Major Modules**
+**Key Areas**
 
-- Accounting
-- General Ledger
-- Sales & Purchasing
-- Inventory
-- Banking
-- GST / Tax
-- Customers & Suppliers
-- Projects
-- Financial Reporting
+* Chart of Accounts
+* General Ledger
+* Journals
+* Sales & purchasing
+* Invoices and quotations
+* Inventory
+* GST / tax
+* Banking
+* Profit & Loss
+* Balance Sheet
+* Trial Balance
+* Cash Flow
+* Financial reporting
 
-**Key Features**
+**Technology**
 
-- Chart of Accounts
-- Journals and ledger management
-- Sales invoices and quotations
-- Purchase bills and payments
-- Inventory management
-- GST / tax configuration
-- Bank account management
-- Profit & Loss
-- Balance Sheet
-- Trial Balance
-- Cash Flow
-- PDF reports
-- Data export
-
-**Technologies**
-
-`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX`
-`Bootstrap` `DataTables` `Chart.js` `Select2`
-`PHPMailer` `mPDF`
+`PHP` `MySQL` `PDO` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `Select2` `Chart.js` `mPDF`
 
 ---
 
-## 🏢 05. RoboERP
+## 🏢 RoboERP
 
-### Enterprise Resource Planning System
+### Enterprise Resource Planning
 
-Comprehensive ERP platform for managing finance, HR, payroll, sales,
-purchasing, inventory, projects and employees.
+ERP platform covering finance, HR, payroll, sales, purchasing, inventory, projects and employee management.
 
-**Major Modules**
+**Key Areas**
 
-- Finance & Accounting
-- HR Management
-- Payroll
-- Sales
-- Purchasing
-- Inventory
-- Projects
-- Employee Management
-- Reporting
+* Finance & accounting
+* General Ledger
+* Sales & purchasing
+* Inventory
+* HR management
+* Attendance & leave
+* Payroll
+* Employee expenses
+* Project management
+* Timesheets
+* Project billing
+* Financial reporting
+* Import / export
+* Role-based access
 
-**Key Features**
+**Technology**
 
-- General Ledger
-- Financial statements
-- Sales quotations, orders and invoices
-- Purchase management
-- Warehouse & inventory
-- Employee records
-- Attendance & leave
-- Salary & deductions
-- Payslip generation
-- Employee expenses
-- Project timesheets
-- Project billing
-- PDF reports
-- Excel / CSV import-export
-- Role-based access
-
-**Technologies**
-
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX`
-`Bootstrap` `DataTables` `PHPExcel` `mPDF`
-`PHPMailer` `JSON` `XML`
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `PHPExcel` `mPDF` `PHPMailer`
 
 ---
 
-## 📅 06. SetAgendas
+## 📅 SetAgendas
 
-### Appointment & Business Booking Platform
+### Appointment • Booking • Subscription SaaS
 
-Appointment scheduling and business booking platform for managing services,
-staff, customers, rooms, bookings, payments and subscriptions.
+Appointment and business booking platform for managing services, staff, customers, resources, payments and subscriptions.
 
-**Major Modules**
+**Key Areas**
 
-- Appointment booking
-- Calendar management
-- Service management
-- Staff management
-- Customer management
-- Business management
-- Payments
-- Subscriptions
-- Reports
+* Online appointment scheduling
+* Calendar management
+* Service management
+* Staff management
+* Customer management
+* Room / resource management
+* Payment processing
+* Subscription billing
+* Invoicing
+* Booking reports
+* Revenue reporting
+* Email notifications
+* Role-based administration
 
-**Key Features**
+**Integrations**
 
-- Online appointment scheduling
-- Service and staff management
-- Customer booking history
-- Room / resource management
-- Stripe payments
-- Razorpay payments
-- Subscription billing
-- Google / Facebook authentication
-- Invoice generation
-- Booking & revenue reports
-- Email notifications
-- Role-based administration
+`Stripe` `Razorpay` `Google OAuth` `Facebook SDK` `REST APIs`
 
-**Technologies**
+**Technology**
 
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX`
-`Bootstrap` `DataTables` `mPDF`
-`Stripe API` `Razorpay API`
-`Google OAuth` `Facebook SDK` `REST APIs`
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Bootstrap` `DataTables` `mPDF`
 
 ---
 
-## 🎟️ 07. Boletos en Línea
+## 🎟️ Boletos en Línea
 
-### Online Ticketing & Event Management Platform
+### Online Ticketing • Events • Seat Management
 
-Online event ticketing platform for managing events, venues, seat maps,
-reservations, payments, ticket validation and reseller workflows.
+Event ticketing platform for managing events, venues, seat maps, reservations, payments and ticket validation.
 
-**Major Modules**
+**Key Areas**
 
-- Event management
-- Venue management
-- Seat-map management
-- Ticket booking
-- Payment processing
-- Customer management
-- Promoter / reseller management
-- Ticket validation
-- Reporting
+* Event management
+* Venue management
+* Interactive seat maps
+* Ticket booking
+* Reservations
+* Shopping cart
+* Ticket cancellation / resale
+* QR-code ticket generation
+* Ticket scanning and validation
+* Ticket printing
+* Pricing and discounts
+* Promotions
+* Event reporting
 
-**Key Features**
+**Integrations**
 
-- Interactive seat-map management
-- Ticket booking and reservations
-- Shopping cart
-- Ticket cancellation / resale
-- QR-code ticket generation
-- Ticket scanning and validation
-- Ticket printing
-- Payment gateway integrations
-- Pricing and discounts
-- Promotions
-- PDF tickets / invoices
-- Sales and event reports
-- CSV / Excel data processing
+`PayPal` `Conekta` `Banorte` `QR Code` `REST APIs`
 
-**Technologies**
+**Technology**
 
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX`
-`UIkit` `PayPal API` `Conekta API` `Banorte`
-`QR Code` `PHPExcel` `mPDF` `TCPDF`
-`JSPrintManager` `REST APIs`
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `UIkit` `PHPExcel` `mPDF` `TCPDF` `JSPrintManager`
 
 ---
 
-## 🚗 08. Automotive Service Contract & Claims Management Platform
+## 🚗 Automotive Service Contract & Claims Platform
 
 ### Vehicle Protection • Claims • Payments
 
-Automotive service contract and claims management platform for managing
-customers, vehicles, coverage plans, repair shops, claims, payments and
-electronic documents.
+Business platform for managing customers, vehicles, service contracts, coverage plans, repair shops, claims and payments.
 
-**Major Modules**
+**Key Areas**
 
-- Customer management
-- Lead & deal management
-- Vehicle / service contracts
-- Coverage plans
-- Repair shops
-- Claims
-- Payments
-- Recurring commitments
-- Electronic signatures
-- Reports
+* Customer and vehicle management
+* Service contracts
+* Coverage plans
+* Repair shop management
+* Claims submission and tracking
+* Recurring payments
+* Electronic documents
+* Staff roles and permissions
+* Automated workflows
+* Scheduled processing
+* Reporting
 
-**Key Features**
+**Integrations**
 
-- Customer and vehicle policy management
-- Service contract coverage workflows
-- Automated pricing
-- Repair-shop management
-- Online claims submission
-- Claim tracking
-- Recurring payment management
-- Stripe payment processing
-- DocuSign electronic signatures
-- Email / SMS verification
-- PDF document generation
-- CSV reporting
-- Staff roles & permissions
-- Scheduled / cron processing
+`Stripe` `DocuSign` `USPS` `Firebase JWT` `REST APIs`
 
-**Technologies**
+**Technology**
 
-`PHP` `MySQL` `JavaScript` `jQuery` `AJAX`
-`UIkit` `Stripe API` `DocuSign API`
-`PHPMailer` `mPDF` `USPS API`
-`Guzzle` `Twig` `Firebase JWT` `REST APIs`
+`PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `UIkit` `Guzzle` `Twig` `PHPMailer` `mPDF`
 
 ---
 
-# 📂 Project Categories
+# 🛠️ Technology Stack
 
-| Category | Projects |
-|---|---|
-| 📱 Mobile Applications | Timenox360, VyqdaRetail |
-| 🌐 Web Applications | IWCN Enterprise Platforms |
-| 🏪 Retail / POS | VyqdaRetail, Khanuja Book Depot |
-| 👨‍💼 Employee Management | Timenox360, RoboERP |
-| 💰 Finance / Accounting | Tradeline, Accournal, RoboERP |
-| 🎓 Education | EduTools |
-| 📚 Content Management | Content Analysis, E-Content Platform |
-| 📦 Inventory | EduTools, RoboERP, VyqdaRetail |
-| 📅 Booking / SaaS | SetAgendas |
-| 🎟️ Event Technology | Boletos en Línea |
-| 🚗 Automotive | Service Contract & Claims Platform |
-| 🔌 API Integration | Stripe, Razorpay, PayPal, Conekta, Copyscape, GrammarBot, DocuSign |
-| 📊 Business Automation | ERP, CRM, Retail, Finance & SaaS Platforms |
+## Languages
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge)
 
-# 🧠 Core Expertise
+## Frontend & Mobile
 
-## Software Engineering
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B2?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jQuery\&logoColor=white)
 
-- Application Architecture
-- Full-Stack Development
-- MVC Architecture
-- REST API Development
-- Database Design & Optimization
-- Authentication & Authorization
-- Role-Based Access Control
-- Business Logic Development
-- Third-Party API Integration
-- Payment Gateway Integration
+## Backend & APIs
 
-## Business Applications
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
 
-- ERP Systems
-- Accounting & Finance
-- CRM
-- Retail & POS
-- Inventory Management
-- Education Platforms
-- Content Management
-- Appointment Booking
-- Event Ticketing
-- Automotive Claims
-- SaaS Applications
+## Databases
 
-## Development Practices
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-- Clean & maintainable code
-- Modular application design
-- Reusable components
-- API-driven architecture
-- Database-driven development
-- Production deployment
-- Debugging & troubleshooting
-- Performance optimization
+## DevOps & Production
+
+* Git & GitHub
+* GitHub Actions
+* Linux
+* Nginx
+* Apache
+* PM2
+* Production deployment
+* Server configuration
+* API authentication
+* JSON / XML
+* Application monitoring
+* Debugging & troubleshooting
 
 ---
 
-# 📊 GitHub Statistics
+# 🧠 Core Engineering Expertise
 
-<p align="center">
+### Software Engineering
 
-  <img src="https://github-readme-stats.vercel.app/api?username=durgeshyadav87&show_icons=true&theme=tokyonight&hide_border=true" />
+* Full-Stack Application Development
+* Application Architecture
+* MVC Architecture
+* REST API Design
+* Database Architecture
+* Database Optimization
+* Authentication & Authorization
+* Role-Based Access Control
+* Business Logic Development
+* Third-Party API Integration
+* Payment Gateway Integration
+* Production Debugging
 
-</p>
+### Business Systems
 
-<p align="center">
+* ERP
+* CRM
+* SaaS
+* Retail & POS
+* Inventory Management
+* Accounting & Finance
+* Sales Force Automation
+* Employee Management
+* Attendance & GPS Tracking
+* Appointment & Booking Systems
+* Event & Ticketing Platforms
+* E-commerce
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=durgeshyadav87&theme=tokyonight&hide_border=true" />
+### Engineering Practices
 
-</p>
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshyadav87&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+* Modular application design
+* Reusable components
+* API-driven architecture
+* Database-driven development
+* Offline-first application concepts
+* Performance optimization
+* Production deployment
+* Legacy application maintenance
+* Troubleshooting and root-cause analysis
 
 ---
 
-# 🏆 What I Build
+# 🔌 API & Third-Party Integration Experience
+
+Experienced in integrating software applications with external services and APIs, including:
+
+* Payment gateways
+* Authentication providers
+* Communication services
+* Plagiarism detection services
+* Document and e-signature platforms
+* Address / postal services
+* Business and financial APIs
+* REST / JSON / XML based services
+
+### Examples
+
+`Stripe` `Razorpay` `PayPal` `Conekta` `DocuSign` `Copyscape` `GrammarBot` `USPS` `Google OAuth` `Facebook SDK`
+
+---
+
+# 🏗️ How I Approach Software Development
 
 ```text
 Business Requirements
+        ↓
+Requirement Analysis
         ↓
 System Architecture
         ↓
@@ -640,6 +532,70 @@ Web / Mobile Application
         ↓
 Third-Party Integrations
         ↓
-Testing & Optimization
+Testing & Debugging
+        ↓
+Performance Optimization
         ↓
 Production Deployment
+        ↓
+Monitoring & Support
+```
+
+I focus on building solutions that are not only functional, but also **maintainable, scalable and aligned with real business requirements**.
+
+---
+
+# 📌 Domain Experience
+
+| Domain                          | Experience                              |
+| ------------------------------- | --------------------------------------- |
+| 💼 SaaS & Business Applications | Enterprise & Custom SaaS                |
+| 🏢 ERP                          | Finance, HR, Payroll, Inventory         |
+| 💰 Accounting & Finance         | Accounting, Billing, Payments           |
+| 🛒 Retail & POS                 | Products, Inventory, Sales, Billing     |
+| 📱 Mobile                       | React Native Business Applications      |
+| 📍 Field Force                  | Attendance, GPS, SFA                    |
+| 🎓 Education                    | Products, Packages, Inventory           |
+| 📝 Content                      | Content, Plagiarism, Editorial Workflow |
+| 📅 Booking                      | Appointments, Services, Subscriptions   |
+| 🎟️ Events                      | Ticketing, Seat Maps, QR Validation     |
+| 🚗 Automotive                   | Contracts, Claims, Payments             |
+| 🔌 Integrations                 | Payment, OAuth, Business APIs           |
+
+---
+
+# 📈 Current Focus
+
+Currently focused on building modern business applications using:
+
+`React` `React Native` `Node.js` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
+
+with emphasis on:
+
+* Scalable application architecture
+* API-driven systems
+* Mobile applications
+* Offline-first workflows
+* Business automation
+* GPS / location-based applications
+* Retail & POS
+* SaaS platforms
+* Production-ready deployments
+
+---
+
+# 📫 Connect With Me
+
+* 💼 LinkedIn: **[Add your LinkedIn URL]**
+* 📧 Email: **[Add your professional email]**
+* 🐙 GitHub: **[github.com/durgeshyadav87](https://github.com/durgeshyadav87)**
+
+---
+
+## ⭐ About My Work
+
+I enjoy working on software where **technology meets real business problems**.
+
+My experience spans the complete software development lifecycle — from understanding business requirements and designing databases to developing APIs, web/mobile applications, integrating external services and supporting production systems.
+
+> **Build practical software. Solve real business problems. Keep it maintainable.**
