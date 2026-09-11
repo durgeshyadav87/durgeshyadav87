@@ -1,30 +1,34 @@
 # 👋 Hi, I'm Durgesh Kumar Yadav
 
-### Senior Full-Stack Software Engineer | IT & Software Engineering Professional
+### Senior Full-Stack Software Engineer | Web, Mobile & Business Applications
 
-> Building scalable business applications, SaaS platforms, APIs, automation systems and modern web & mobile solutions.
+> Building practical software solutions for real-world business problems.
 
-**15+ years of professional IT & software engineering experience**, spanning IT operations, full-stack application development, SaaS platforms, enterprise business systems, database architecture, API development, third-party integrations and production environments.
+I am an **IT & Software Engineering professional with 15+ years of experience** spanning IT operations, web application development, full-stack engineering, SaaS platforms, business automation, database-driven applications, REST APIs, third-party integrations and production systems.
 
-I enjoy turning complex business requirements into **practical, reliable and maintainable software solutions** — from requirement analysis and database design to backend APIs, web/mobile applications, integrations and production deployment.
+My experience covers the complete application lifecycle — from **understanding business requirements and designing databases to developing backend APIs, web/mobile applications, integrations, deployment and production support**.
+
+I enjoy working on complex business requirements and turning them into **reliable, maintainable and scalable software solutions**.
 
 ---
 
-## 🚀 Professional Summary
+# 🚀 Professional Summary
 
 * 💻 Senior Full-Stack Software Engineer
 * 🕐 **15+ Years of Professional IT & Software Engineering Experience**
-* 🌐 Web Application & SaaS Development
-* 📱 React Native Mobile Application Development
+* 🌐 Web Application Development
+* 📱 Mobile Application Development
 * 🖥️ Desktop Application Development
 * ⚛️ React & Modern JavaScript Applications
-* 🟢 Node.js & Express REST API Development
-* 🐘 PHP & Legacy Application Development
+* 📱 React Native Application Development
+* 🟢 Node.js & Express REST APIs
+* 🐘 PHP Web Application Development
 * 🗄️ MySQL, PostgreSQL & SQLite
-* 🔌 Third-Party & Payment API Integrations
-* 🔐 Authentication, Authorization & RBAC
-* 📊 ERP / CRM / POS / Retail / Finance / SFA Systems
-* 📍 Attendance, GPS & Field-Force Solutions
+* 🔌 REST APIs & Third-Party Integrations
+* 💳 Payment Gateway Integrations
+* 🔐 Authentication, Authorization & Role-Based Access Control
+* 📊 ERP / CRM / POS / Retail / Finance / SFA
+* 📍 Attendance, GPS & Field-Force Applications
 * ⚙️ Business Process Automation
 * ☁️ Linux, Nginx, Apache & PM2
 * 🔧 Production Deployment, Debugging & Troubleshooting
@@ -35,27 +39,29 @@ I enjoy turning complex business requirements into **practical, reliable and mai
 
 ```text
 IT Operations & Infrastructure
-          │
-          ▼
+             │
+             ▼
 IT Executive — Hotel Industry
 2011 – 2013
-          │
-          ▼
-Full-Stack Software Development
-          │
-          ▼
+             │
+             ▼
+Web Application Development
+             │
+             ▼
+Web Application Developer
 IWCN Pvt. Ltd.
 2013 – 2024
-          │
-          ▼
-Modern Web / Mobile / SaaS Engineering
-          │
-          ▼
+             │
+             ▼
+Full-Stack Web & Mobile Engineering
+             │
+             ▼
+Full-Stack Software Developer
 VYQDA Technologies Pvt. Ltd.
 2024 – Present
 ```
 
-My career has evolved from **IT operations and infrastructure** into full-stack software engineering, allowing me to understand both the technical and business sides of software systems.
+My career has evolved from **IT operations and infrastructure to web application development and full-stack software engineering**, giving me practical experience across both technology and business operations.
 
 ---
 
@@ -67,66 +73,71 @@ My career has evolved from **IT operations and infrastructure** into full-stack 
 
 `May 2024 – Present`
 
-Working on modern web, mobile and business applications across retail, employee management, sales-force automation, financial workflows and API-driven platforms.
+Currently working on modern web, mobile and business applications across retail, employee management, sales-force automation, financial workflows and API-driven platforms.
 
-### Key Areas
+### Key Responsibilities
 
 * Develop and maintain React-based web applications
 * Develop React Native mobile applications
 * Build Node.js / Express REST APIs
 * Design and optimize relational databases
-* Implement complex business workflows
-* Develop attendance and employee-management systems
+* Implement complex business workflows and validations
+* Develop employee attendance and management functionality
 * Implement GPS and location-based functionality
-* Build Sales Force Automation workflows
+* Work on Sales Force Automation workflows
 * Develop retail and POS functionality
-* Implement authentication and role-based access
+* Implement authentication and role-based access control
 * Integrate third-party APIs and payment services
-* Develop API communication between web, mobile and backend systems
+* Develop communication between web, mobile and backend systems
 * Work with offline-first application concepts
 * Implement local data storage and synchronization workflows
-* Troubleshoot production issues
+* Troubleshoot application and production issues
 * Optimize application performance
 * Work with Linux, Nginx and PM2 production environments
 
 ### Major Product Areas
 
-**Timenox360**
-Employee Attendance • GPS Tracking • Sales Force Automation
+#### 📱 Timenox360
 
-**VyqdaRetail**
-Retail Management • POS • Inventory
+**Employee Attendance • GPS Tracking • Sales Force Automation**
 
-**Tradeline**
-Business & Financial Management Platform
+#### 🛒 VyqdaRetail
+
+**Retail Management • POS • Inventory**
+
+#### 💼 Tradeline
+
+**Business & Financial Management Platform**
 
 ---
 
-## IWCN Pvt. Ltd.
+# 🏢 IWCN Pvt. Ltd.
 
 ### Web Application Developer
 
 `September 2013 – April 2024` · **10 Years 8 Months**
 
-Worked as a **Web Application Developer** on commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event-management platforms and business automation solutions.
+Worked as a **Web Application Developer** on commercial web applications, SaaS platforms, ERP/CRM systems, accounting applications, e-commerce platforms, booking systems, event technology and business automation solutions.
 
 ### Key Responsibilities
 
 * Developed and maintained database-driven web applications
 * Designed and implemented application modules based on business requirements
-* Developed server-side business logic and web application workflows
-* Designed and optimized MySQL database structures and queries
-* Developed dynamic web interfaces using JavaScript, jQuery, AJAX and Bootstrap
+* Developed server-side business logic and application workflows
+* Designed and optimized MySQL databases and SQL queries
+* Developed dynamic interfaces using JavaScript, jQuery, AJAX and Bootstrap
 * Integrated third-party APIs and external services
 * Implemented payment gateway integrations
-* Developed authentication, authorization and role-based access
-* Built reporting, invoicing and document-generation functionality
+* Developed authentication and authorization workflows
+* Implemented role-based access control
+* Built reporting and dashboard functionality
+* Developed invoicing and document-generation workflows
 * Worked on ERP, CRM, accounting, inventory and e-commerce modules
-* Implemented data import/export and reporting workflows
-* Debugged and resolved application and production issues
+* Implemented data import/export functionality
+* Debugged and resolved application issues
 * Maintained and enhanced existing business applications
-* Worked with legacy systems and implemented new functionality
-* Supported application deployment and production environments
+* Worked with legacy applications and implemented new functionality
+* Supported production applications and troubleshooting
 
 ### Major Project Domains
 
@@ -135,28 +146,11 @@ Worked as a **Web Application Developer** on commercial web applications, SaaS p
 * 🏢 ERP & Business Management
 * 📅 Appointment & Booking Systems
 * 🎟️ Event & Ticketing Platforms
-* 🚗 Automotive Service Contract & Claims Management
+* 🚗 Automotive Service Contract & Claims
 * 📝 Content Management & Plagiarism Detection
 * 🛒 E-commerce & Inventory Management
 
-### Major Projects
-
-**EduTools** — Education Supply & Inventory Management Platform
-
-**Accournal** — Accounting & Business Management System
-
-**RoboERP** — Enterprise Resource Planning System
-
-**SetAgendas** — Appointment & Business Booking Platform
-
-**Boletos en Línea** — Online Ticketing & Event Management Platform
-
-**Automotive Service Contract & Claims Platform**
-
-**Content Analysis & Plagiarism Detection Platform**
-
-**E-Content Management & Ordering Platform**
-
+---
 
 # 🖥️ IT Executive — Hotel Industry
 
@@ -164,26 +158,30 @@ Worked as a **Web Application Developer** on commercial web applications, SaaS p
 
 `2011 – 2013`
 
-Started my professional IT career in the hotel industry, supporting day-to-day IT operations and technology infrastructure.
+Started my professional IT career in the hotel industry, supporting day-to-day IT operations, users and technology infrastructure.
 
-### Key Areas
+### Key Responsibilities
 
 * IT infrastructure support
 * Computer systems and network support
 * Hardware and software troubleshooting
-* User / staff technical support
+* User and staff technical support
 * System maintenance
 * Network and connectivity troubleshooting
-* IT equipment management
 * Software installation and configuration
+* IT equipment management
 * Data and system support
 * Operational technology support
 
-This experience provided a strong foundation in **IT operations, troubleshooting, end-user support and production environments**, which later helped transition into software development and business application engineering.
+This experience provided a strong foundation in **IT operations, infrastructure, troubleshooting and production environments**, which later supported my transition into professional web application development.
 
 ---
 
-# 🧩 Selected Product & Project Experience
+# 🧩 Selected Professional Project Experience
+
+> The projects below represent selected professional experience. Source code for company projects is maintained in private/company repositories and is not publicly available.
+
+---
 
 ## 📱 Timenox360
 
@@ -262,7 +260,7 @@ Business platform supporting financial, operational and administrative workflows
 
 ---
 
-# 🏢 Enterprise Project Experience
+# 🏢 Enterprise Project Experience — IWCN
 
 ## 🎓 EduTools
 
@@ -416,7 +414,7 @@ Appointment and business booking platform for managing services, staff, customer
 * Service management
 * Staff management
 * Customer management
-* Resource / room management
+* Room / resource management
 * Payment processing
 * Subscription billing
 * Invoicing
@@ -527,7 +525,9 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-## ⚙️ Development & DevOps
+---
+
+# ⚙️ Development & DevOps
 
 * Git & GitHub
 * GitHub Actions
@@ -535,12 +535,13 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 * Nginx
 * Apache
 * PM2
-* Production deployment
-* Server configuration
-* API authentication
+* Production Deployment
+* Server Configuration
+* API Authentication
 * JSON / XML
-* Application monitoring
-* Debugging & troubleshooting
+* Webhooks
+* Application Monitoring
+* Debugging & Troubleshooting
 
 ---
 
@@ -548,19 +549,19 @@ Business platform for managing customers, vehicles, service contracts, coverage 
 
 Hands-on experience integrating business applications with external services and APIs.
 
-### Payment & Financial
+### 💳 Payment & Financial
 
 `Stripe` `Razorpay` `PayPal` `Conekta`
 
-### Business & Platform APIs
+### 🔗 Business & Platform APIs
 
 `DocuSign` `USPS` `Copyscape` `GrammarBot`
 
-### Authentication
+### 🔐 Authentication
 
 `Google OAuth` `Facebook SDK` `Firebase JWT`
 
-### API Technologies
+### 🌐 API Technologies
 
 `REST` `JSON` `XML` `Webhooks`
 
@@ -571,6 +572,7 @@ Hands-on experience integrating business applications with external services and
 ## Software Engineering
 
 * Full-Stack Application Development
+* Web Application Development
 * Application Architecture
 * MVC Architecture
 * REST API Design
@@ -638,7 +640,7 @@ Production Deployment
 Monitoring & Support
 ```
 
-My approach focuses on building software that is:
+I focus on building software that is:
 
 * Reliable
 * Maintainable
@@ -668,13 +670,41 @@ My approach focuses on building software that is:
 
 ---
 
-# 📈 Current Focus
+# 🎯 What I Bring to a Development Team
 
-Currently focused on modern business application development using:
+### Business Understanding
+
+Ability to understand real-world business requirements and translate them into practical technical solutions.
+
+### Full-Stack Ownership
+
+Comfortable working across database, backend, APIs, frontend, mobile applications and production environments.
+
+### Legacy + Modern Technology
+
+Experience working with established PHP/jQuery applications as well as modern React, React Native and Node.js systems.
+
+### Integration Experience
+
+Hands-on experience integrating payment gateways, authentication providers, external APIs and business services.
+
+### Production Experience
+
+Experience troubleshooting, maintaining and supporting applications running in real-world production environments.
+
+### Problem Solving
+
+Strong focus on understanding business rules, identifying root causes and developing maintainable solutions.
+
+---
+
+# 📈 Current Technical Focus
+
+Currently working with:
 
 `React` `React Native` `Node.js` `Express` `REST APIs` `PostgreSQL` `MySQL` `SQLite`
 
-with emphasis on:
+with a focus on:
 
 * Scalable application architecture
 * API-driven systems
@@ -688,35 +718,7 @@ with emphasis on:
 
 ---
 
-# 🎯 What I Bring to a Development Team
-
-### Business Understanding
-
-Ability to understand real-world business requirements and convert them into technical solutions.
-
-### Full-Stack Ownership
-
-Comfortable working across database, backend, APIs, frontend, mobile applications and deployment.
-
-### Legacy + Modern Technology
-
-Experience working with both established PHP/jQuery systems and modern React/Node.js applications.
-
-### Integration Experience
-
-Hands-on experience connecting applications with payment gateways, authentication providers, external APIs and business services.
-
-### Production Experience
-
-Experience troubleshooting and maintaining applications in real-world production environments.
-
-### Problem Solving
-
-Strong focus on understanding root causes, business rules and long-term maintainability rather than only implementing short-term fixes.
-
----
-
-# 📚 Education
+# 🎓 Education
 
 ### Bachelor of Engineering — Computer Science
 
@@ -726,7 +728,7 @@ Strong focus on understanding root causes, business rules and long-term maintain
 
 ---
 
-# 📖 Professional Training
+# 📚 Professional Training
 
 ### PHP & MySQL
 
@@ -746,47 +748,26 @@ Strong focus on understanding root causes, business rules and long-term maintain
 
 * 💼 LinkedIn: **[Add your LinkedIn profile URL]**
 * 📧 Email: **[Add your professional email]**
-* 🐙 GitHub: **https://github.com/durgeshyadav87**
+* 🐙 GitHub: **[github.com/durgeshyadav87](https://github.com/durgeshyadav87)**
 
 ---
 
-# ⭐ What I Build
+# ⭐ Professional Philosophy
 
 ```text
-Business Problems
-       ↓
-Requirement Analysis
-       ↓
-System & Database Design
-       ↓
-Backend / API
-       ↓
-Web / Mobile Application
-       ↓
-Integrations
-       ↓
-Testing
-       ↓
-Deployment
-       ↓
-Production Support
+Understand the Business
+        ↓
+Design the Solution
+        ↓
+Build the System
+        ↓
+Integrate the Services
+        ↓
+Test & Optimize
+        ↓
+Deploy to Production
+        ↓
+Support & Improve
 ```
 
-> **I build practical software solutions that solve real business problems.**
-
----
-
-## 🚀 Areas of Interest
-
-* Senior Full-Stack Engineering
-* Software Architecture
-* SaaS & Business Applications
-* React / React Native
-* Node.js & REST APIs
-* Enterprise Application Development
-* ERP / CRM / POS
-* Retail Technology
-* Mobile & Offline-First Applications
-* Business Process Automation
-* API & System Integration
-* Production Engineering
+> **Build practical software. Solve real business problems. Keep it maintainable.**
