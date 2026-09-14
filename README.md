@@ -40,7 +40,6 @@ Experience across:
 * Accounting & Finance
 * Retail & Inventory
 * E-commerce
-* Education
 * Booking & Subscription systems
 * Event & Ticketing
 * Automotive Claims
