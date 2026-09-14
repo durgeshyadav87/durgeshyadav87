@@ -42,7 +42,6 @@ Experience across:
 * E-commerce
 * Booking & Subscription systems
 * Event & Ticketing
-* Automotive Claims
 * Content & Plagiarism platforms
 
 **Tech:** `PHP` `MySQL` `JavaScript` `jQuery` `AJAX` `Bootstrap` `REST APIs`
@@ -77,7 +76,7 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 
 ### Integrations
 
-`Stripe` `Razorpay` `PayPal` `Conekta` `DocuSign` `Copyscape` `Google OAuth` `REST APIs` `Webhooks`
+`Stripe` `PayPal` `Conekta` `DocuSign` `Copyscape` `Google OAuth` `REST APIs` `Webhooks`
 
 ---
 
@@ -87,7 +86,6 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 * REST API Development
 * Database Design & Optimization
 * Business Logic & Workflow Development
-* Authentication & RBAC
 * Payment & Third-Party API Integration
 * ERP / CRM / POS Development
 * Mobile Application Development
@@ -106,11 +104,11 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 | **VyqdaRetail**         | Retail, POS, Inventory          | React, Node.js, SQLite       |
 | **Tradeline**           | Financial & Business Management | React, Node.js               |
 | **EduTools**            | Education & Inventory           | PHP, MySQL                   |
-| **Accournal**           | Accounting & Finance            | PHP, MySQL                   |
-| **RoboERP**             | ERP                             | PHP, MySQL                   |
-| **SetAgendas**          | Booking & SaaS                  | PHP, MySQL                   |
 | **Boletos en Línea**    | Event & Ticketing               | PHP, MySQL                   |
-| **Automotive Platform** | Contracts & Claims              | PHP, MySQL                   |
+| **Accournal**           | Accounting & Finance            | PHP, MySQL                   |
+| **SetAgendas**          | Booking & SaaS                  | PHP, MySQL                   |
+| **RoboERP**             | ERP                             | PHP, MySQL                   |
+
 
 ---
 
@@ -138,8 +136,8 @@ The Institution of Electronics and Telecommunication Engineers (IETE), New Delhi
 
 # 📫 Connect
 
-* 💼 LinkedIn: **[Add LinkedIn URL]**
-* 📧 Email: **[Add Professional Email]**
+* 💼 LinkedIn: **https://www.linkedin.com/in/durgesh-kumar-yadav-897300245/**
+* 📧 Email: **durgeshkumar55@gmail.com**
 * 🐙 GitHub: **github.com/durgeshyadav87**
 
 > **Build practical software. Solve real business problems.**
