@@ -60,7 +60,7 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 
 ### Frontend & Mobile
 
-`React` `React Native` `JavaScript` `HTML5` `CSS3` `Bootstrap` `jQuery`
+`React` `React Native` `JavaScript` `jQuery` `HTML5` `CSS3` Tailwind CSS `Bootstrap` `Uikit` 
 
 ### Backend
 
@@ -68,7 +68,7 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 
 ### Databases
 
-`MySQL` `PostgreSQL` `SQLite`
+`MySQL` `PostgreSQL` `SQLite` `Supabase`
 
 ### DevOps & Production
 
@@ -76,7 +76,9 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 
 ### Integrations
 
-`Stripe` `PayPal` `Conekta` `DocuSign` `Copyscape` `Google OAuth` `REST APIs` `Webhooks`
+ `Stripe` `PayPal` `Authorize.net` `banorte` `Conekta`
+ `Google OAuth` `Facebook Auth`
+ `DocuSign` `Copyscape`  `Trustap API` `equifax Kount & DIT` ﻿`Usps` `REST APIs` `Webhooks`  
 
 ---
 
