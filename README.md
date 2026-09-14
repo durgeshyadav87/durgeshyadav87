@@ -98,16 +98,16 @@ Started my professional IT career supporting IT infrastructure, systems, users, 
 
 > Selected projects from professional experience. Source code is maintained in private/company repositories and is not publicly available.
 
-| Project                 | Domain                          | Technology                   |
-| ----------------------- | ------------------------------- | ---------------------------- |
-| **Timenox360**          | Attendance, GPS, SFA            | React, React Native, Node.js |
-| **VyqdaRetail**         | Retail, POS, Inventory          | React, Node.js, SQLite       |
-| **Tradeline**           | Financial & Business Management | React, Node.js               |
-| **EduTools**            | Education & Inventory           | PHP, MySQL                   |
-| **Boletos en Línea**    | Event & Ticketing               | PHP, MySQL                   |
-| **Accournal**           | Accounting & Finance            | PHP, MySQL                   |
-| **SetAgendas**          | Booking & SaaS                  | PHP, MySQL                   |
-| **RoboERP**             | ERP                             | PHP, MySQL                   |
+| Project                 | Domain                                 | Technology                           |
+| ----------------------- | ---------------------------------------| -------------------------------------|
+| **Timenox360 App**      | Attendance, GPS, SFA                   | React, React Native,SQLite, Supabase |
+| **VyqdaRetail App**     | Retail, POS, Inventory                 | React, React Native, Node.js, SQLite |
+| **Tradeline**           | Financial & Business Management        | React, Node.js                       |
+| **EduTools**            | Education & Inventory                  | PHP, MySQL,JavaScript                |
+| **Boletos en Línea**    | Event & Ticketing                      | PHP, MySQL,JavaScript                |
+| **Accournal**           | Accounting & Finance                   | PHP, MySQL,JavaScript                |
+| **SetAgendas**          | Booking & SaaS                         | PHP, MySQL,JavaScript                |
+| **RoboERP**             | ERP,CRM,Products Inventory & Financial | PHP, MySQL,JavaScript                |
 
 
 ---
